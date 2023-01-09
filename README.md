@@ -6,3 +6,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge")](https://twitter.com/burneeed)
 
 I some times add repos for network automation, some times for devops and I pretend to somewhat know how kubernetes works.
+
+[![burnyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnyd)](https://github.com/burnyd/github-readme-stats)
+
