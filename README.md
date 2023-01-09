@@ -7,6 +7,5 @@
 
 I some times add repos for network automation, some times for devops and I pretend to somewhat know how kubernetes works.
 
-[![burnyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnyd)](https://github.com/burnyd/github-readme-stats)
+![burnyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnyd&show_icons=true&theme=radical)
 
-![burnyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnyd&count_private=true)
